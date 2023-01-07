@@ -1,1 +1,1 @@
-# saSS-SPA
+Um projeto feito utilizando o compilador SASS
